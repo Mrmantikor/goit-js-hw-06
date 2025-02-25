@@ -2,7 +2,8 @@
 
 - Створити репозиторій `goit-js-hw-06` та склонюй його собі на комп’ютер.
 - У папці `goit-js-hw-06` створи структуру проєкта, як показано на схемі нижче.
-- ![Image](https://github.com/user-attachments/assets/e4c51669-0339-4284-a2a6-8a24cb176164)
+
+![Image](https://github.com/user-attachments/assets/e4c51669-0339-4284-a2a6-8a24cb176164)
 
 ### Задача 1. Акаунт користувача
 
